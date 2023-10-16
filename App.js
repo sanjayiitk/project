@@ -51,7 +51,6 @@ container :{
 
 
 input : {
-  height : 40,
   margin : 14,
   fontSize:15,
   borderWidth :2,
